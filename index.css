@@ -1,0 +1,34 @@
+.box{
+     text-align:center;
+     margin:auto;
+    
+}
+
+html{
+        text-shadow:5px 9px 5px #ccc ;
+}
+img{
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+
+}
+.row{
+
+margin:78px 45px;
+
+
+
+
+}
+
+
+table, th, td {
+        
+        border-collapse: collapse;
+        padding: 25px;
+      }
+.td{
+      font-weight: 900;
+
+}
